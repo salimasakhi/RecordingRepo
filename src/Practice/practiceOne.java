@@ -7,4 +7,8 @@ public class practiceOne {
 
 	}
 
+	public void remotmethod{ 
+	 // this is from remot repo
+		
+	}	
 }
